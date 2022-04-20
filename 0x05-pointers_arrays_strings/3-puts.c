@@ -14,9 +14,9 @@ int m;
 
 c = str;
 
-for (n = 0; c[n]; n++)
+for (m = 0; c[m]; m++)
 {
-_putchar (c[n]);
+_putchar (c[m]);
 }
 _putchar('\n');
 }
